@@ -3,15 +3,13 @@ This project's goal is to create an autonomous robot that collects a intact soil
 
 The full design was done in 3 Stages 
 
-[Planning](#planning)
+[PDR](#Preliminary-Design-Review)
 
-[Design](#design)
+[CDR](#Critical-Design-Review)
 
-[Development](#development)
+[FDR](#Final-Design-Review)
 
-[Functionality](#functionality)
 
-[Evaluation](#evaluation)
 
 ## Preliminary Design Review (PDR)
 This phase involved the concept generation, market analysis, intitial technical analysis, and economic consideration
@@ -22,5 +20,5 @@ The documentation for the same can be found [here](Documentation/PDR)
 ## Critical Design Review 
 This phase is ongoing
 
-## Functionality
+## Final Design Review
 This phase is yet to start

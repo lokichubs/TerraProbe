@@ -1,0 +1,12 @@
+/* Center all content */
+h2 {
+    text-align: center;
+}
+
+/* Center the metric boxes */
+.centered-metrics {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+}

@@ -6,19 +6,19 @@ This project's goal is to create an autonomous robot that collects an intact soi
 
 ### 🔩 Burrowing Mechanism
 Collects intact soil core of up to 12"  
-![Burrowing](Documentation/FDR/Video_Tests/Burrowing.gif)
+![Burrowing](Documentation/FDR/Gifs/Burrowing.gif)
 
 ### 🪫 Core Extraction
 Can be operated and collected by a single person. Designed for intuitive use.  
-![Extraction](Documentation/FDR/Video_Tests/Extraction.gif)
+![Extraction](Documentation/FDR/Gifs/Extraction.gif)
 
 ### 📊 Data Collection
 Slits facilitate depth profiling of NPK and moisture data.  
-![Data Collection](Documentation/FDR/Video_Tests/Data_Collection.gif)
+![Data Collection](Documentation/FDR/Gifs/Data_Collection.gif)
 
 ### 📉 Dashboard Interface
 Dashboard allows visualization of collected data and prediction for best crop to grow in collected soil.  
-![Dashboard](Documentation/FDR/Video_Tests/Dashboard.gif)
+![Dashboard](Documentation/FDR/Gifs/Dashboard.gif)
 
 ---
 

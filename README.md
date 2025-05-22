@@ -39,3 +39,8 @@ Documentation can be found [here](Documentation/CDR)
 ## Final Design Review
 This phase revolved around realizing our final prototype — the soil sampler (TerraProbe), the data acquisition system (TerraPal), and the Dashboard (TerraSoilIQ).  
 Documentation can be found [here](Documentation/FDR)
+
+The final versions of the motor control,DAQ,and dashboard code can be seen below
+- [Motor Control](#motor-control)
+- [DAQ](#data-acquisition)
+- [Dashboard](#dashboard)

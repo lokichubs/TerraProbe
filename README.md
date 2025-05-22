@@ -41,6 +41,6 @@ This phase revolved around realizing our final prototype — the soil sampler (T
 Documentation can be found [here](Documentation/FDR)
 
 The final versions of the motor control,DAQ,and dashboard code can be seen below
-- [Motor Control](#motor-control)
-- [DAQ](#data-acquisition)
-- [Dashboard](#dashboard)
+- [Motor Control](Motor%20Control)
+- [DAQ](DAQ)
+- [Dashboard](Dashboard)
